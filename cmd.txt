@@ -1,1 +1,8 @@
 1. git init
+2. git status
+3. git add cmd.txt or (git add cmd.txt cmd2.txt)  [staging]
+4. git add .  (All files)
+5. git commit
+6. esc:wq exit editor
+7. git commit -m "added one file"
+8. check for chagnes before stag
