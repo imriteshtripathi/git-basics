@@ -13,3 +13,10 @@
 12. git checkout addimages
 13. git checkout -b bugFix
 14. git branch
+15. git merge addimages
+16. git commit -a -m "updated 3rd branch with master branch changes"
+17. [Solving conflicts] ,manually to done
+18. check what branches are done: git branch --merged
+19. git branch --no-merge
+20. Delete branch git branch  -d addimages [it gives warning if not merged]
+21. Force Delete branch git branch  -D addimages [either it's not merged]
