@@ -5,4 +5,11 @@
 5. git commit
 6. esc:wq exit editor
 7. git commit -m "added one file"
-8. check for chagnes before stag
+8. check for chagnes before stag git diff
+9. after add git diff --staged
+10. git commit -m "updated"
+-------Branching-----
+11.  git branch branch-name
+12. git checkout addimages
+13. git checkout -b bugFix
+14. git branch
