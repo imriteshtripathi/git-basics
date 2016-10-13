@@ -20,3 +20,5 @@
 19. git branch --no-merge
 20. Delete branch git branch  -d addimages [it gives warning if not merged]
 21. Force Delete branch git branch  -D addimages [either it's not merged]
+22. git remote add origin https://github.com/imriteshtripathi/git-basics.git
+23 [delete existing origin ] git remote rm origin
