@@ -22,3 +22,5 @@
 21. Force Delete branch git branch  -D addimages [either it's not merged]
 22. git remote add origin https://github.com/imriteshtripathi/git-basics.git
 23 [delete existing origin ] git remote rm origin
+
+Work form office
