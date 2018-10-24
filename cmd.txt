@@ -24,6 +24,7 @@
 23. [delete existing origin ] git remote rm origin
 24. git push -u origin
 25. git push --set-upstream origin master
+26. git log
 
 Work form office
 added new line
